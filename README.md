@@ -104,7 +104,7 @@ Se refiere a todo lo que ocurre en el servidor, en lugar de en el cliente. En el
 El problema que hay con alojar todos estos procesos en el lado del servidor es que cada solicitud que implique a uno de ellos tiene que recorrer todo el camino desde el cliente hasta el servidor, y eso cada vez. Esto produce una gran cantidad de latencia. Por esta razón, las aplicaciones actuales ejecutan más código en el lado del cliente; un caso de uso es la representación de páginas web dinámicas en tiempo real mediante la ejecución de scripts en el navegador, que hacen cambios en el contenido que ve el usuario.
 [Referencia](https://www.cloudflare.com/es-es/learning/serverless/glossary/client-side-vs-server-side/)
 
-![Esquema Cliente/Servidor](https://www.researchgate.net/profile/Saira-Edith-Marquez-De-La-Cruz/publication/348295603/figure/fig2/AS:977220508069889@1609998933656/Figura-24-Modelo-Cliente-Servidor-Fuente-Propia-investigacion-basada-en-Bazan-et-al.png)
+![Esquema Cliente/Servidor](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh88fRpMd38wW1quxDhAXo20wJgjAiIJTtaA&s)
 
 ### Ejemplos de modelo cliente-servidor:
 
